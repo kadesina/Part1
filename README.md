@@ -7,8 +7,6 @@ To design a comprehensive logical architecture and backend workflow for the lab 
 - [Draw.io](https://app.diagrams.net/#G131nh-Co61dE6gBKoQ5e_8Wf64SdqlmpD#%7B%22pageId%22%3A%22JO1-W9AiMIgTA2bS2M9a%22%7D)
 
 
-## Description
-
 ## 🔐 Active Directory Detection & Response Lab (Cloud-Based)
 
 This lab is built using **[Vultr](https://www.vultr.com/)** a cloud hosting provider. The environment consists of the following **three servers**:
